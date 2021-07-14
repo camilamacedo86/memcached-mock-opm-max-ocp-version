@@ -24,3 +24,7 @@ open index.db
 
 SELECT * from properties
 operator","version":"0.0.1"}	memcached-operator.v0.0.1	0.0.1	quay.io/cmacedo/bundle-memcached
+
+<img width="676" alt="Screen Shot 2021-07-14 at 15 52 53" src="https://user-images.githubusercontent.com/7708031/125643820-7ac4e36b-43ac-401a-8f33-14de88a49fac.png">
+
+

@@ -4,6 +4,8 @@
 2) Make the bundle and pushed it to: https://quay.io/repository/cmacedo/bundle-memcached
 3) Executed : 
 
+### Tests made with opm 1.17.3
+
 ```
 $ opm version
 Version: version.Version{OpmVersion:“v1.17.3”, GitCommit:“b660eab”, BuildDate:“2021-06-03T09:58:39Z”, GoOs:“darwin”, GoArch:“amd64”}
